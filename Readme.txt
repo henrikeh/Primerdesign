@@ -1,0 +1,1 @@
+The Pythonscript "primercalc.py" calculates the free energy of pentamers within a primer sequence according to the method described in Rychlik, Wojciech. „Selection of primers for polymerase chain reaction.“ In PCR Protocols, 31–40. Springer, 1993. http://link.springer.com/protocol/10.1385/0-89603-244-2:31.
